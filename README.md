@@ -1,2 +1,1 @@
-# myFiles
-در این صفحه هر آن چیزی که در تجربه ی کاری خودم با آن برخورد می‌کنم را قرار می‌دهم.
+presentation files in Regression2
